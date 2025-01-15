@@ -1,4 +1,4 @@
-# README: Architectural Flaw Detection in Civil Engineering Using GPT-4
+# Architectural Flaw Detection in Civil Engineering Using GPT-4
 
 ## Overview
 This repository hosts the resources and results associated with the paper:
