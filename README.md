@@ -96,18 +96,6 @@ If you use this project in your research, please cite:
    pip install -r requirements.txt
    ```
 
-### Running the Analysis
-1. Prepare floor plan images and place them in the `/images` folder.
-2. Convert images to Base64 format using the provided script:
-   ```bash
-   python convert_to_base64.py
-   ```
-3. Run the analysis script:
-   ```bash
-   python analyze_images.py
-   ```
-4. View the generated results in the `/results` folder.
-
 ## Important Note
 This repository shares the **annotated dataset, results, and analysis** discussed in the paper. 
 
