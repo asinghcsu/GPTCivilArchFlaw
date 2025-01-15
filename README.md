@@ -109,7 +109,7 @@ If you use this project in your research, please cite:
 4. View the generated results in the `/results` folder.
 
 ## Important Note
-This repository shares the **annotated dataset, results, and analysis ** discussed in the paper. 
+This repository shares the **annotated dataset, results, and analysis** discussed in the paper. 
 
 ## Future Work
 - Integration of augmented reality (AR) for real-time flaw detection.
